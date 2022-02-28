@@ -1,0 +1,64 @@
+body {
+	color:#777;
+	background: #f7f7f7;
+	line-height: 1.6em;
+}
+
+.clear {
+	clear: both;
+}
+
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, sans-serif, Arial;
+}
+h1, h2, h3, h4, h5, h6 {
+	color:#222;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-style: normal;
+	margin: 0 0 20px 0;
+}
+h1 { font-size: 40px; line-height: 30px; }
+h2 { font-size: 32px; }
+h3 { font-size: 24px; }
+h4 { font-size: 18px; }
+h5 { font-size: 16px; }
+.txt-light { font-weight: 300; }
+.txt-regular { font-weight: 400; }
+.txt-bold { font-weight: 700; }
+.txt-uppercase { text-transform: uppercase; }
+
+blockquote.bigquote {
+	border: none;
+	font-size: 48px;
+	letter-spacing: -1px;
+	font-weight: 700;
+	line-height: 1em;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+	display: block;
+}
+
+
+small {
+	font-size: 70%;
+	font-weight: 100;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+:focus {
+	outline: none;
+}
+
+.color-white.txt-shadow {
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.t-uppercase {
+	text-transform: uppercase;
+}
