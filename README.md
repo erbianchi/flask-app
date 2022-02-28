@@ -1,4 +1,4 @@
-**a sample containrized flask-app**
+**a sample containerized flask-app**
 
 This is a sample python flask-app for demo purpose and ready to be dockerized. It is slow down on purpose to illustrate real world use cases.
 
